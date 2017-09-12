@@ -8,5 +8,6 @@ namespace ShadredCalculator
 {
     public class Class1
     {
+
     }
 }
